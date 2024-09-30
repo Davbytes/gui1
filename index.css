@@ -30,7 +30,7 @@ align-items: flex-start;
 .loginpage {
 display: flex;
 flex-direction: column;
-background-image: url('wallpaperflare.com_wallpaper.jpg');
+background-image: url('wallpaper.jpg');
 background-size: cover;
 background-position: center;
 justify-content: center;
